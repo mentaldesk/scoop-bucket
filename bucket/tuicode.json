@@ -1,16 +1,16 @@
 {
-    "version": "0.0.19",
+    "version": "0.0.20",
     "description": "Minimalist terminal code editor for working over SSH",
     "homepage": "https://github.com/mentaldesk/TuiCode",
     "license": "MIT",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/mentaldesk/TuiCode/releases/download/v0.0.19/tuicode-0.0.19-win-x64.zip",
-            "hash": "66d5adb6300497926981731de312b5bb45becfb7b5182e1a012ccb717566b2a6"
+            "url": "https://github.com/mentaldesk/TuiCode/releases/download/v0.0.20/tuicode-0.0.20-win-x64.zip",
+            "hash": "73ed0319331a34e55879f7b7765b41e8e9adfedadb90899d2491663f60e8b1ac"
         },
         "arm64": {
-            "url": "https://github.com/mentaldesk/TuiCode/releases/download/v0.0.19/tuicode-0.0.19-win-arm64.zip",
-            "hash": "8ccc69cf46da385d20063eaa0bb9ef549da63ff7a625d412c120d060906af2e1"
+            "url": "https://github.com/mentaldesk/TuiCode/releases/download/v0.0.20/tuicode-0.0.20-win-arm64.zip",
+            "hash": "4f8d95013b2e71f3616a6053c55b17680d000a08e15dce98b82567460bc7a706"
         }
     },
     "bin": [
